@@ -1,0 +1,8 @@
+{
+  "name": "eccube-plugin-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:NickelLab/EC-CUBE-Plugin-Base.git",
+  "author": "NickelLab. LLC. <info@nickellab.net>",
+  "license": "MIT"
+}
